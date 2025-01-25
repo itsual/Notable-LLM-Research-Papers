@@ -602,6 +602,13 @@ Ready to start? 🎉 Browse the list and explore the exciting breakthroughs shap
 | 521          | Rethinking Token Reduction in MLLMs                                                                              | [Link](https://arxiv.org/abs/2411.17686) |
 | 522          | Reverse Thinking Makes LLMs Stronger Reasoners                                                                   | [Link](https://arxiv.org/abs/2411.19865) |
 | 523          | Critical Tokens Matter                                                                                          | [Link](https://arxiv.org/abs/2411.19943) |
+| 524   | Foundations of Large Language Models                                                                  | [Link](http://arxiv.org/abs/2501.09223v1) |
+| 525   | A Survey of Research in Large Language Models for Electronic Design Automation                         | [Link](https://arxiv.org/abs/2501.09655v1) |
+| 526   | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models            | [Link](http://arxiv.org/abs/2501.09686v3) |
+| 527   | Large Language Models, Knowledge Graphs and Search Engines: A Crossroads for Answering Users' Questions| [Link](https://arxiv.org/abs/2501.06699v1) |
+| 528   | The Future of AI: Exploring the Potential of Large Concept Models                                      | [Link](https://arxiv.org/abs/2501.05487) |
+| 529   | Investigating Numerical Translation with Large Language Models                                        | [Link](https://arxiv.org/abs/2501.04927) |
+| 530   | CALM: Curiosity-Driven Auditing for Large Language Models                                              | [Link](https://arxiv.org/abs/2501.02997) |
 
 ---
 
