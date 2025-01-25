@@ -1,5 +1,5 @@
 # 📚 Notable-LLM-Research-Papers 🎓✨
-Hello, curious reader! 👋 Are you someone who loves exploring the cutting-edge world of AI and large language models (LLMs)? Or maybe you're a researcher, developer, or simply an enthusiast wondering about how these incredible technologies are evolving? Either way, you're in the right place. This repository is your gateway to **500+ groundbreaking research papers** that capture the exciting developments in AI across 2024 and beyond.
+Hello, curious reader! 👋 Are you someone who loves exploring the cutting-edge world of AI and large language models (LLMs)? Or maybe you're a researcher, developer, or simply an enthusiast wondering about how these incredible technologies are evolving? Either way, you're in the right place. This repository is your gateway to **500+ groundbreaking research papers** that capture the exciting developments in AI (in recent months)
 
 ## 🚀 What’s in This Repository?
 These papers cover a *wide spectrum of topics*, ranging from improving model efficiency to aligning AI with human values, and even diving into the magic of multimodal models. The field of AI is advancing faster than ever, and these works showcase the brilliant ideas and innovations shaping the future.
