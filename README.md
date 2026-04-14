@@ -613,3 +613,91 @@ Ready to start? 🎉 Browse the list and explore the exciting breakthroughs shap
 ---
 
 📌 *Explore cutting-edge research ✨ and stay updated!* 🧠🌟
+
+---
+
+### 🆕 2025–2026 Notable Additions
+
+| 🔢 **S.No.** | 📝 **Paper Title** | 🔗 **Link** |
+|---|---|---|
+| 531 | DeepSeek-V3 Technical Report | [Link](https://arxiv.org/abs/2412.19437) |
+| 532 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | [Link](https://arxiv.org/abs/2501.12948) |
+| 533 | Kimi k1.5: Scaling Reinforcement Learning with LLMs | [Link](https://arxiv.org/abs/2501.12599) |
+| 534 | Reasoning Language Models: A Blueprint | [Link](https://arxiv.org/abs/2501.11223) |
+| 535 | Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought | [Link](https://arxiv.org/abs/2501.04682) |
+| 536 | The Lessons of Developing Process Reward Models in Mathematical Reasoning | [Link](https://arxiv.org/abs/2501.07301) |
+| 537 | LIMO: Less is More for Reasoning | [Link](https://arxiv.org/abs/2502.03387) |
+| 538 | Demystifying Long Chain-of-Thought Reasoning in LLMs | [Link](https://arxiv.org/abs/2502.03373) |
+| 539 | Competitive Programming with Large Reasoning Models | [Link](https://arxiv.org/abs/2502.06807) |
+| 540 | LLMs Can Easily Learn to Reason from Demonstrations: Structure, Not Content, Is What Matters | [Link](https://arxiv.org/abs/2502.07374) |
+| 541 | Training Language Models to Reason Efficiently | [Link](https://arxiv.org/abs/2502.04463) |
+| 542 | Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning | [Link](https://arxiv.org/abs/2502.14768) |
+| 543 | SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution | [Link](https://arxiv.org/abs/2502.18449) |
+| 544 | On the Emergence of Thinking in LLMs: Searching for the Right Intuition | [Link](https://arxiv.org/abs/2502.06773) |
+| 545 | Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning | [Link](https://arxiv.org/abs/2502.06781) |
+| 546 | Teaching Language Models to Critique via Reinforcement Learning | [Link](https://arxiv.org/abs/2502.03492) |
+| 547 | A Review of DeepSeek Models' Key Innovative Techniques | [Link](https://arxiv.org/abs/2503.11486) |
+| 548 | R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning | [Link](https://arxiv.org/abs/2503.05592) |
+| 549 | Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning | [Link](https://arxiv.org/abs/2503.09516) |
+| 550 | Understanding R1-Zero-Like Training: A Critical Perspective | [Link](https://arxiv.org/abs/2503.20783) |
+| 551 | ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning | [Link](https://arxiv.org/abs/2503.19470) |
+| 552 | Open-Reasoner-Zero: An Open Source Approach to Scaling Up RL on the Base Model | [Link](https://arxiv.org/abs/2503.24290) |
+| 553 | Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't | [Link](https://arxiv.org/abs/2503.16219) |
+| 554 | Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in LLMs | [Link](https://arxiv.org/abs/2503.13551) |
+| 555 | JudgeLRM: Large Reasoning Models as a Judge | [Link](https://arxiv.org/abs/2504.00050) |
+| 556 | Concise Reasoning via Reinforcement Learning | [Link](https://arxiv.org/abs/2504.05185) |
+| 557 | Absolute Zero: Reinforced Self-play Reasoning with Zero Data | [Link](https://arxiv.org/abs/2505.03335) |
+| 558 | Qwen3 Technical Report | [Link](https://arxiv.org/abs/2505.09388) |
+| 559 | MiMo: Unlocking the Reasoning Potential of Language Models — From Pretraining to Posttraining | [Link](https://arxiv.org/abs/2505.07608) |
+| 560 | Llama-Nemotron: Efficient Reasoning Models | [Link](https://arxiv.org/abs/2505.00949) |
+| 561 | INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized Reinforcement Learning | [Link](https://arxiv.org/abs/2505.07291) |
+| 562 | AdaptThink: Reasoning Models Can Learn When to Think | [Link](https://arxiv.org/abs/2505.13417) |
+| 563 | Thinkless: LLM Learns When to Think | [Link](https://arxiv.org/abs/2505.13379) |
+| 564 | General-Reasoner: Advancing LLM Reasoning Across All Domains | [Link](https://arxiv.org/abs/2505.14652) |
+| 565 | Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents | [Link](https://arxiv.org/abs/2505.22954) |
+| 566 | Reinforcement Pre-Training | [Link](https://arxiv.org/abs/2506.08007) |
+| 567 | Magistral | [Link](https://arxiv.org/abs/2506.10910) |
+| 568 | AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery | [Link](https://arxiv.org/abs/2506.13131) |
+| 569 | SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training | [Link](https://arxiv.org/abs/2501.17161) |
+| 570 | Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond The Base Model? | [Link](https://arxiv.org/abs/2504.13837) |
+| 571 | From System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://arxiv.org/abs/2502.17419) |
+| 572 | Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning LLMs | [Link](https://arxiv.org/abs/2503.09566) |
+| 573 | Multi-Agent Collaboration Mechanisms: A Survey of LLMs | [Link](https://arxiv.org/abs/2501.06322) |
+| 574 | Search-o1: Agentic Search-Enhanced Large Reasoning Models | [Link](https://arxiv.org/abs/2501.05366) |
+| 575 | Reasoning Models Can Be Effective Without Thinking | [Link](https://arxiv.org/abs/2504.09858) |
+| 576 | RM-R1: Reward Modeling as Reasoning | [Link](https://arxiv.org/abs/2505.02387) |
+| 577 | QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning | [Link](https://arxiv.org/abs/2505.17667) |
+| 578 | Enigmata: Scaling Logical Reasoning in LLMs with Synthetic Verifiable Puzzles | [Link](https://arxiv.org/abs/2505.19914) |
+| 579 | ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in LLMs | [Link](https://arxiv.org/abs/2505.24864) |
+| 580 | Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective RL for LLM Reasoning | [Link](https://arxiv.org/abs/2506.01939) |
+| 581 | Spurious Rewards: Rethinking Training Signals in RLVR | [Link](https://arxiv.org/abs/2506.10947) |
+| 582 | Tina: Tiny Reasoning Models via LoRA | [Link](https://arxiv.org/abs/2504.15777) |
+| 583 | Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math | [Link](https://arxiv.org/abs/2504.21233) |
+| 584 | VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning | [Link](https://arxiv.org/abs/2504.08837) |
+| 585 | Gemini Robotics: Bringing AI Into the Physical World | [Link](https://arxiv.org/abs/2503.20020) |
+| 586 | Gemini 2.0: The Era of Multimodal Agentic AI | [Link](https://arxiv.org/abs/2501.12048) |
+| 587 | RARE: Retrieval-Augmented Reasoning Modeling | [Link](https://arxiv.org/abs/2503.23513) |
+| 588 | Learning from Failures in Multi-Attempt Reinforcement Learning | [Link](https://arxiv.org/abs/2503.04808) |
+| 589 | R1-VL: Learning to Reason with Multimodal LLMs via Step-wise Group Relative Policy Optimization | [Link](https://arxiv.org/abs/2503.12937) |
+| 590 | Diffusion-Based Language Models: A Survey | [Link](https://arxiv.org/abs/2501.09166) |
+| 591 | FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching | [Link](https://arxiv.org/abs/2412.15205) |
+| 592 | DAPO: An Open-Source LLM Reinforcement Learning System at Scale | [Link](https://arxiv.org/abs/2503.14476) |
+| 593 | Scaling Laws for Inference-Time Compute | [Link](https://arxiv.org/abs/2501.07970) |
+| 594 | LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [Link](https://arxiv.org/abs/2502.21321) |
+| 595 | Long-VITA: Scaling Large Vision-Language Models for Long Video Understanding | [Link](https://arxiv.org/abs/2502.05177) |
+| 596 | Wan: Open and Advanced Large-Scale Video Generative Models | [Link](https://arxiv.org/abs/2503.20314) |
+| 597 | Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models | [Link](https://arxiv.org/abs/2505.00808) |
+| 598 | Seed1.5-VL Technical Report | [Link](https://arxiv.org/abs/2505.07062) |
+| 599 | A Survey on LLM-based Agents: Recent Advances and New Frontiers | [Link](https://arxiv.org/abs/2501.16150) |
+| 600 | RLVR Is Not RL: Revisiting Reinforcement Learning for LLMs | [Link](https://arxiv.org/abs/2504.14945) |
+| 601 | RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning | [Link](https://arxiv.org/abs/2505.15034) |
+| 602 | Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning | [Link](https://arxiv.org/abs/2505.24726) |
+| 603 | LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL | [Link](https://arxiv.org/abs/2503.07536) |
+| 604 | Reinforcement Learning for Reasoning in Large Language Models with One Training Example | [Link](https://arxiv.org/abs/2504.20571) |
+| 605 | Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model Capability | [Link](https://arxiv.org/abs/2504.09639) |
+| 606 | The First Few Tokens Are All You Need: Unsupervised Prefix Fine-Tuning for Reasoning Models | [Link](https://arxiv.org/abs/2503.02875) |
+| 607 | Learning to Reason without External Rewards | [Link](https://arxiv.org/abs/2505.19590) |
+| 608 | Genius: A Generalizable and Purely Unsupervised Self-Training Framework for Advanced Reasoning | [Link](https://arxiv.org/abs/2504.08672) |
+| 609 | Reinforcement Learning Teachers of Test Time Scaling | [Link](https://arxiv.org/abs/2506.08388) |
+| 610 | Rewarding the Unlikely: Lifting GRPO Beyond Distribution Sharpening | [Link](https://arxiv.org/abs/2506.02355) |
+
