@@ -700,4 +700,63 @@ Ready to start? 🎉 Browse the list and explore the exciting breakthroughs shap
 | 608 | Genius: A Generalizable and Purely Unsupervised Self-Training Framework for Advanced Reasoning | [Link](https://arxiv.org/abs/2504.08672) |
 | 609 | Reinforcement Learning Teachers of Test Time Scaling | [Link](https://arxiv.org/abs/2506.08388) |
 | 610 | Rewarding the Unlikely: Lifting GRPO Beyond Distribution Sharpening | [Link](https://arxiv.org/abs/2506.02355) |
-
+| 611 | V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning (2025-06-11) | [Link](https://arxiv.org/abs/2506.09985) |
+| 612 | LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures (2025-09-11) | [Link](https://arxiv.org/abs/2509.14252) |
+| 613 | VL-JEPA: Joint Embedding Predictive Architecture for Vision-Language (2025-12-11) | [Link](https://arxiv.org/abs/2512.10942) |
+| 614 | LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels (2026-03-13) | [Link](https://arxiv.org/abs/2603.19312) |
+| 615 | V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning (2026-03-15) | [Link](https://arxiv.org/abs/2603.14482) |
+| 616 | UniJEPA: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling (2026-08-07) | [Link](https://arxiv.org/abs/2608.07409) |
+| 617 | Building Effective World-Action Models on Predictive Visual Latents / V-JEPA Policy (2026-09-30) | [Link](https://arxiv.org/pdf/2609.37250) |
+| 618 | AVL-JEPA: Preventing Causal Dynamics Information Collapse in Joint-Embedding Predictive Architectures (2026-10-02) | [Link](https://arxiv.org/abs/2610.03587) |
+| 619 | Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Service Orchestration (2026-09-19) | [Link](https://arxiv.org/abs/2609.22753) |
+| 620 | Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents (2026-09-21) | [Link](https://arxiv.org/html/2609.23986v1) |
+| 621 | Jev for Scientific Decisions: Evaluating Semantic Choices and Their Calibration (2026-09-21) | [Link](https://arxiv.org/abs/2609.24965) |
+| 622 | Visual Jev: Accurate and Efficient Decisions from Shared Visual Context (2026-09-22) | [Link](https://arxiv.org/abs/2609.25845) |
+| 623 | NumericJev: Jev-like LLM Numerical Decoding with Multiway Decision Trees (2026-09-23) | [Link](https://arxiv.org/abs/2609.28587) |
+| 624 | Evaluating and Benchmarking the System One Model Jev (2026-09-29) | [Link](https://arxiv.org/abs/2609.37647) |
+| 625 | LLM-as-Jev: LLMs Are Already Jev-Style Decision Models (2026-10-04) | [Link](https://arxiv.org/html/2610.02076v2) |
+| 626 | FastJEV: Understanding Redundancy for Compact JEV Inference (2026-10-08) | [Link](https://arxiv.org/abs/2610.11379) |
+| 627 | Releasing the Inner Jev: A Simple Recipe for Open Decision Models (2026-10-12) | [Link](https://arxiv.org/abs/2610.17205) |
+| 628 | Jeva: System One Models from First Principles (2026-10-13) | [Link](https://huggingface.co/papers/2610.18773) |
+| 629 | What Can't Jev Decide? Probing the Limits of One-Pass Decision Models (2026-10-18) | [Link](https://arxiv.org/html/2610.24929v1) |
+| 630 | Cosmos World Foundation Model Platform for Physical AI (2025-01-07) | [Link](https://arxiv.org/abs/2501.03575) |
+| 631 | WorldGym: World Model as An Environment for Policy Evaluation (2025-05-31) | [Link](https://arxiv.org/abs/2506.00613) |
+| 632 | World Simulation with Video Foundation Models for Physical AI (2025-10-28) | [Link](https://arxiv.org/abs/2511.00062) |
+| 633 | Training Robots with Reinforcement Learning in a World Model (2026-02-02) | [Link](https://arxiv.org/html/2602.02454v1) |
+| 634 | Self-Improving World Modelling with Latent Actions (2026-02-05) | [Link](https://arxiv.org/html/2602.06130v1) |
+| 635 | Cosmos 3: Omnimodal World Models for Physical AI (2026-06-01) | [Link](https://arxiv.org/abs/2606.02800) |
+| 636 | Scaling Automatic Research Agents via World Models (2026-09-10) | [Link](https://arxiv.org/pdf/2608.12564) |
+| 637 | It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization / MIRAS (2025-04-17) | [Link](https://arxiv.org/abs/2504.13173) |
+| 638 | ATLAS: Learning to Optimally Memorize the Context at Test Time (2025-05-29) | [Link](https://arxiv.org/abs/2505.23735) |
+| 639 | Kimi Linear: An Expressive, Efficient Attention Architecture / Kimi Delta Attention (2025-10-30) | [Link](https://arxiv.org/pdf/2510.26692) |
+| 640 | mHC: Manifold-Constrained Hyper-Connections (2025-12-31) | [Link](https://arxiv.org/abs/2512.24880) |
+| 641 | Mamba-3: Improved Sequence Modeling using State Space Principles (2026-03-16) | [Link](https://arxiv.org/pdf/2603.15569) |
+| 642 | Mixture of Experts for Low-Resource LLMs (2026-05-17) | [Link](https://arxiv.org/html/2605.17598v1) |
+| 643 | Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing (2026-07-08) | [Link](https://arxiv.org/html/2607.07953v1) |
+| 644 | Graph Transformers: A Survey (2026-07-01) | [Link](https://www.xia.ai/publications) |
+| 645 | Encoder-Free Multimodal LLMs Learn Implicit Encoders (2026-10-16) | [Link](https://arxiv.org/html/2610.24239) |
+| 646 | Survey on Evaluation of LLM-based Agents (2025-03-20) | [Link](https://arxiv.org/abs/2503.16416) |
+| 647 | Kimi K2: Open Agentic Intelligence (2025-07-28) | [Link](https://arxiv.org/abs/2507.20534) |
+| 648 | LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios (2025-08-25) | [Link](https://arxiv.org/abs/2508.17692) |
+| 649 | Lifelong Learning of Large Language Model Based Agents: A Roadmap (2026-01-05) | [Link](https://ieeexplore.ieee.org/document/11328884/) |
+| 650 | A Survey on Agent-as-a-Judge (2026-01-08) | [Link](https://arxiv.org/html/2601.05111v1) |
+| 651 | Reasoning Models Generate Societies of Thought (2026-01-15) | [Link](https://arxiv.org/html/2601.10825v1) |
+| 652 | A Survey of Agentic Reasoning for Large Language Models: Towards Recursively Self-Improving and Collective Intelligence (2026-01-18) | [Link](https://arxiv.org/abs/2601.12538) |
+| 653 | Kimi K2.5: Visual Agentic Intelligence (2026-02-02) | [Link](https://arxiv.org/abs/2602.02276) |
+| 654 | LLM and AI Agents for Autonomous Systems: A Survey of Capabilities, Challenges, and Future Directions (2026-02-17) | [Link](https://ieeexplore.ieee.org/document/11397656) |
+| 655 | Agentic Code Reasoning (2026-03-04) | [Link](https://arxiv.org/pdf/2603.01896) |
+| 656 | Agent Harness for Large Language Model Agents: A Survey (2026-04-09) | [Link](https://www.preprints.org/manuscript/202604.0428) |
+| 657 | Learned Adaptive Memory Management for LLM Agents (2026-07-15) | [Link](https://arxiv.org/pdf/2607.13591) |
+| 658 | Hybrid Reasoning Agents (2026-10-13) | [Link](https://arxiv.org/html/2610.18861v1) |
+| 659 | A Comprehensive Survey on Integrating Large Language Models with Knowledge-Based Systems (2025-01-19) | [Link](https://arxiv.org/abs/2501.13947) |
+| 660 | Gemma 3 Technical Report (2025-03-25) | [Link](https://arxiv.org/abs/2503.19786) |
+| 661 | Automated Survey Collection with LLM-based Conversational Agents (2025-10-30) | [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12574787/) |
+| 662 | DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models (2025-12-02) | [Link](https://arxiv.org/abs/2512.02556) |
+| 663 | Ministral 3 Technical Report (2026-01-13) | [Link](https://arxiv.org/pdf/2601.08584) |
+| 664 | Multimodal Information Fusion for Chart Understanding: A Survey of Multimodal Large Language Models (2026-02-08) | [Link](https://arxiv.org/abs/2602.10138) |
+| 665 | Qwen3-Coder-Next Technical Report (2026-02-28) | [Link](https://arxiv.org/abs/2603.00729) |
+| 666 | End-To-End LLM Systems: Data, Training, Evaluation, and Deployment (2026-05-01) | [Link](https://ieeexplore.ieee.org/document/11483701/) |
+| 667 | How Can the Integration of AI Large Language Models and Knowledge Graph Enhance Fault Diagnosis? A Systematic Literature Review (2026-05-15) | [Link](https://research.utwente.nl/en/publications/how-can-the-integration-of-ai-large-language-models-and-knowledge/) |
+| 668 | Gemma 4 Technical Report (2026-07-02) | [Link](https://arxiv.org/abs/2607.02770) |
+| 669 | Kimi K3: Open Frontier Intelligence (2026-07-27) | [Link](https://arxiv.org/abs/2607.24653) |
+| 670 | Large Language Model Deployment on Resource-Constrained Edge Devices: A Practitioner's Survey (2026-02-01) | [Link](https://ieeexplore.ieee.org/document/11393769/)
